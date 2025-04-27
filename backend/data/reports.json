@@ -1,0 +1,100 @@
+[
+  {
+    "analysis_id": "874d2c08-a48d-4f08-85b0-a7f6fb9ca17e",
+    "patent_id": "US-11950530-B2",
+    "company_name": "John Deere",
+    "analysis_date": "2025-04-27",
+    "top_infringing_products": [
+      {
+        "product_name": "S700 Combine Harvester",
+        "infringement_likelihood": "High",
+        "relevant_claims": [
+          {
+            "num": "1",
+            "text": "1. An adjustment apparatus for use with a chopper drum, in which the chopper drum is supported from a housing and mounted for rotation about a rotational axis and comprises a plurality of circumferentially spaced knife supports to which at least one chopper knife is adjustably secured, the adjustment apparatus comprising: a lateral element; at least one location element for location of the adjustment apparatus with respect to the chopper drum; and at least one radially inwardly directed guide surface, describing an outer path of a unworn chopper knife, wherein the at least one guide surface is adjustably located with respect to the lateral element; wherein the at least one guide surface is on an individual spacer element, and the spacer element is adjustably located with respect to the lateral element, and wherein the spacer element comprises: first and second portions, wherein the first portion comprises: the guide surface; and the lateral element comprising first and second limbs."
+          },
+          {
+            "num": "7",
+            "text": "7. A calibration system comprising: a chopper drum and an adjustment apparatus comprising: a lateral element; at least one location element for location of the adjustment apparatus with respect to the chopper drum; and at least one radially inwardly directed guide surface, describing an outer path of an unworn chopper knife, wherein the guide surface is adjustably located with respect to the lateral element, wherein the at least one guide surface is on an individual spacer element, and the spacer element is adjustably located with respect to the lateral element, wherein the spacer element comprises: first and second portions, wherein the first portion comprises: the guide surface; and the lateral element comprising first and second limbs; wherein the chopper drum is supported from a housing and mounted for rotation about a rotational axis and comprises a plurality of circumferentially spaced knife supports to which at least one unworn chopper knife is adjustably secured."
+          }
+        ],
+        "explanation": "The S700 Combine Harvester incorporates an adjustment apparatus that includes a lateral element and a guide surface that is adjustably located with respect to the chopper drum, fulfilling the core claim elements. Additionally, it features a calibration system that integrates the chopper drum and adjustment apparatus, aligning with the secondary claim elements.",
+        "specific_features": [
+          "Lateral element for adjustment",
+          "Radially inwardly directed guide surface",
+          "Calibration system integration"
+        ]
+      },
+      {
+        "product_name": "HarvestLab 3000",
+        "infringement_likelihood": "Medium",
+        "relevant_claims": [
+          {
+            "num": "1",
+            "text": "1. An adjustment apparatus for use with a chopper drum, in which the chopper drum is supported from a housing and mounted for rotation about a rotational axis and comprises a plurality of circumferentially spaced knife supports to which at least one chopper knife is adjustably secured, the adjustment apparatus comprising: a lateral element; at least one location element for location of the adjustment apparatus with respect to the chopper drum; and at least one radially inwardly directed guide surface, describing an outer path of a unworn chopper knife, wherein the at least one guide surface is adjustably located with respect to the lateral element; wherein the at least one guide surface is on an individual spacer element, and the spacer element is adjustably located with respect to the lateral element, and wherein the spacer element comprises: first and second portions, wherein the first portion comprises: the guide surface; and the lateral element comprising first and second limbs."
+          },
+          {
+            "num": "7",
+            "text": "7. A calibration system comprising: a chopper drum and an adjustment apparatus comprising: a lateral element; at least one location element for location of the adjustment apparatus with respect to the chopper drum; and at least one radially inwardly directed guide surface, describing an outer path of an unworn chopper knife, wherein the guide surface is adjustably located with respect to the lateral element, wherein the at least one guide surface is on an individual spacer element, and the spacer element is adjustably located with respect to the lateral element, wherein the spacer element comprises: first and second portions, wherein the first portion comprises: the guide surface; and the lateral element comprising first and second limbs; wherein the chopper drum is supported from a housing and mounted for rotation about a rotational axis and comprises a plurality of circumferentially spaced knife supports to which at least one unworn chopper knife is adjustably secured."
+          }
+        ],
+        "explanation": "The HarvestLab 3000 features an adjustment apparatus that includes a lateral element and a guide surface, which are essential components of the claimed invention. However, it may not fully integrate the calibration system as described in the claims, leading to a medium risk of infringement.",
+        "specific_features": [
+          "Lateral element for adjustment",
+          "Radially inwardly directed guide surface",
+          "Partial calibration system"
+        ]
+      }
+    ],
+    "overall_risk_assessment": "High risk of infringement due to the S700 Combine Harvester's complete alignment with the core claim elements and the HarvestLab 3000's significant overlap with the claimed adjustment apparatus."
+  },
+  {
+    "analysis_id": "6f6f2a88-cce2-4a05-9a8d-e29fc65d7e27",
+    "patent_id": "US-RE49889-E1",
+    "company_name": "Case IH",
+    "analysis_date": "2025-04-27",
+    "top_infringing_products": [
+      {
+        "product_name": "AFS Connect",
+        "infringement_likelihood": "High",
+        "relevant_claims": [
+          {
+            "num": "1",
+            "text": "1. An improved computer-implemented method for generating a digital shopping list, at least a portion of the method being performed by a computing device comprising at least one processor, the method comprising: presenting an electronic advertisement associated with a product, for display on a mobile device; the mobile device receiving input indicating a selection of the advertisement; in response to receiving the input, the mobile device providing an option to open a mobile application (âappâ) for saving the product into a shopping list; subsequent to providing the option to open the app, the mobile device receiving a negative response; subsequent to receiving the negative response, the mobile device receiving a request to open the app and the mobile device opening the app; subsequent to the app being opened, the mobile device routing the app to an online shopping list; and, the mobile device adding an identification of the associated product to the shopping list."
+          },
+          {
+            "num": "2",
+            "text": "2. The method according to claim 1 further comprising the mobile device transmitting a tracking payload to a remote database which tracks the selection of the mobile advertisement."
+          }
+        ],
+        "explanation": "AFS Connect implements the core claim elements by presenting advertisements for agricultural products on mobile devices, allowing users to select these advertisements, and subsequently providing options to save these products into a digital shopping list. It also tracks user interactions with the advertisements, fulfilling the secondary claim elements.",
+        "specific_features": [
+          "Advertisement presentation on mobile devices",
+          "User selection tracking",
+          "Integration with shopping list applications"
+        ]
+      },
+      {
+        "product_name": "AFS Pro 700",
+        "infringement_likelihood": "High",
+        "relevant_claims": [
+          {
+            "num": "1",
+            "text": "1. An improved computer-implemented method for generating a digital shopping list, at least a portion of the method being performed by a computing device comprising at least one processor, the method comprising: presenting an electronic advertisement associated with a product, for display on a mobile device; the mobile device receiving input indicating a selection of the advertisement; in response to receiving the input, the mobile device providing an option to open a mobile application (âappâ) for saving the product into a shopping list; subsequent to providing the option to open the app, the mobile device receiving a negative response; subsequent to receiving the negative response, the mobile device receiving a request to open the app and the mobile device opening the app; subsequent to the app being opened, the mobile device routing the app to an online shopping list; and, the mobile device adding an identification of the associated product to the shopping list."
+          },
+          {
+            "num": "5",
+            "text": "5. The method according to claim 1 further including the mobile device adding an identification of a store in which the associated product may be purchased."
+          }
+        ],
+        "explanation": "AFS Pro 700 incorporates features that allow it to display advertisements for products, receive user selections, and facilitate the addition of these products to a shopping list, thus covering both core and secondary claim elements.",
+        "specific_features": [
+          "Product advertisement display",
+          "User interaction tracking",
+          "Shopping list integration"
+        ]
+      }
+    ],
+    "overall_risk_assessment": "High risk of infringement due to the direct implementation of core claim elements related to advertisement presentation and shopping list integration in both products."
+  }
+]
